@@ -1,0 +1,33 @@
+{
+  "name": "xwiki-local",
+  "version": "0.1.0",
+  "description": "Access XWiki pages as local files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "xwikil": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lieldulev/xwiki-local.git"
+  },
+  "keywords": [
+    "xwiki"
+  ],
+  "author": "Liel Dulev <lieldulev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lieldulev/xwiki-local/issues"
+  },
+  "homepage": "https://github.com/lieldulev/xwiki-local#readme",
+  "dependencies": {
+    "axios": "^0.9.1",
+    "chalk": "^1.1.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0",
+    "js-yaml": "^3.5.2"
+  }
+}
