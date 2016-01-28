@@ -3,6 +3,7 @@ Access XWiki pages as local files
 
 ## Requirements
 * Node JS (4.0 & up)
+* XWiki 7.3 (& up, before 7.3 there is a bug in XWiki REST API that removes new lines  http://jira.xwiki.org/browse/XWIKI-12787)
 
 ## Installation
 Currently best option is
