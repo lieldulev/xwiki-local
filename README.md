@@ -11,7 +11,8 @@ Currently best option is
   1. `$ git clone git@github.com:lieldulev/xwiki-local.git`
   2. `$ cd xwiki-local`
   3. `$ npm -g install`
-  4. You are good to go.
+  4. `xwikil config` _And follow on-scree instructions_
+  5. You are good to go.
 
 _Hopefully it will be available to be installed with npm directly soon._
 
